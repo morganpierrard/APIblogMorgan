@@ -1,0 +1,17 @@
+.article{
+  text-align:left;
+  list-style-type: none;
+}
+
+.titre{
+  text-align: center;
+}
+
+.adminArticles{
+  display: flex;
+  justify-content: space-around;
+}
+
+a{
+  outline: none
+}
